@@ -6,18 +6,18 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, Eu sou o João! Um estudante de Ciência de Dados..
+   👋Faaaala dev, João Santos Aqui!
 
-  - 🌱 Atualmente estou estudando Ciência de Dados na Uninove e faço curso de desenvolvimento front-end <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Ciência de Dados na Uninove e faço curso de desenvolvimento de software com <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-  - 🔭 Estou procurando minha primeira oportunidade de trabalho. Meu sonho é um dia trabalhar como dev..
+  - 🔭 Estou procurando minha primeira oportunidade de trabalho. Meu sonho é um dia trabalhar como desenvolvimento de software com Java..
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Com 39 anos, estou cursando Ciência de Dados, mas minha verdadeira paixão está no desenvolvimento web. Meu objetivo é tornar-me um Full Stack, por isso tenho me dedicado intensamente ao estudo tanto do front end quanto do back end. Esta transição de carreira tem sido uma experiência incrível e enriquecedora para mim.
+  - 💬 Estou cursando Ciência de Dados, mas minha verdadeira paixão está no desenvolvimento de software com Java. Meu objetivo é tornar-me um Full Stack Developer, e por isso tenho me dedicado intensamente ao estudo de Java, Spring Boot, MongoDB, Docker e NoSQL. Esta transição de carreira tem sido uma experiência incrível e enriquecedora para mim, permitindo-me explorar novas tecnologias e expandir minhas habilidades de desenvolvimento
 
   - ⚡ Gosto de ler e de assistir filmes e praticar esportes !Estou convencido de que nossos interesses pessoais enriquecem nossa visão das coisas e fortalecem nossa habilidade de resolver problemas.. \o/
 </details>
@@ -38,13 +38,16 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="MAVEN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+    <img align="center" alt="MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     
 
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+  
 
