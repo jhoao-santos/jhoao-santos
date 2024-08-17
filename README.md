@@ -27,7 +27,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://fjoao1020@gmail.com/)
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaosantos&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoao-santos&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosantos&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!-- GIF -->
 <p align="left">
