@@ -28,7 +28,6 @@
 
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoao-santos&show_icons=true&theme=highcontrast&include_all_commits=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoao-santos&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!-- GIF -->
 <p align="left">
