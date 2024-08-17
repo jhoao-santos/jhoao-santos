@@ -27,8 +27,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://fjoao1020@gmail.com/)
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoao-santos&show_icons=true&theme=highcontrast&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoao-santos&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=jhoao-santos&show_icons=true&theme=highcontrast&include_all_commits=true" alt="GitHub Stats">
+    </td>
+    <td valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoao-santos&show_icons=true&theme=highcontrast" alt="Top Langs">
+    </td>
+  </tr>
+</table>
+
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
