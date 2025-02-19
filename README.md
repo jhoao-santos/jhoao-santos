@@ -1,32 +1,31 @@
 <!-- Título -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">João Ferreira dos Santos</h1></summary>
   </ul>
 </div>
 
 <!-- Apresentação -->
 <p>
-  👋 Faaaala dev, João Santos Aqui!
-
-## 🚀 Sobre Mim
-Desenvolvedor Backend em formação, focado em Java, Spring Boot, MySQL e Microservices. Em transição de carreira, estou construindo uma base sólida em desenvolvimento de sistemas escaláveis e eficientes. Apaixonado por tecnologia e sempre buscando aprender mais.
-
-  - 🔭 Desenvolvedor Backend em formação. Focado em Java, Spring Boot, MySQL e Microservices. Busco construir soluções escaláveis e eficientes, com ênfase em boas práticas e desenvolvimento de sistemas robustos.
+  👋 Faaaala dev, João Santos Aqui!<br><br>
+  ## 🚀 Sobre Mim<br>
+  Estou em transição de carreira para o desenvolvimento Backend, focado em Java, Spring Boot, MySQL e Microservices. Meu objetivo é criar sistemas escaláveis e eficientes, aplicando boas práticas de desenvolvimento e buscando sempre aprender mais sobre novas tecnologias. A cada novo desafio, estou mais motivado para me aprofundar no desenvolvimento de soluções robustas, escaláveis e de alta performance.
+  <br><br>
+  - 🔭 Atualmente, estou aprimorando minhas habilidades para desenvolver soluções robustas e de alta performance, com ênfase na criação de APIs e sistemas distribuídos. Busco aplicar meus conhecimentos em Java, Spring Boot e bancos de dados para resolver problemas complexos.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
-
-  - 💬 Minha trajetória está mudando para o desenvolvimento Backend. Embora tenha iniciado minha jornada em Ciência de Dados, agora estou concentrado em aprender Java, Spring Boot e MySQL. Estou focado em adquirir conhecimento profundo em desenvolvimento de sistemas, buscando criar soluções que sejam não apenas funcionais, mas escaláveis e de alta performance. A transição tem sido enriquecedora, e estou motivado para me aprofundar ainda mais nesse universo.
+  
+  - 💬 Minha trajetória está em evolução, agora focada no desenvolvimento Backend. Após iniciar na Ciência de Dados, decidi me aprofundar em tecnologias como Java, Spring Boot e MySQL para criar soluções mais robustas e escaláveis, com o intuito de construir sistemas de alto desempenho e atender às demandas do mercado.
 
   - ⚡ Gosto de ler, assistir filmes e praticar esportes. Acredito que nossos hobbies nos ajudam a desenvolver habilidades importantes, como criatividade e resolução de problemas, que são essenciais tanto na vida pessoal quanto profissional. \o/
 </details>
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãoferreira10/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://fjoao1020@gmail.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjoao1020@gmail.com)
 
 <!-- GithubStats -->
 <table style="border-collapse: collapse; width: 100%;">
