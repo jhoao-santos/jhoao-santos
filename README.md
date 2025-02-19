@@ -7,20 +7,19 @@
 
 <!-- Apresentação -->
 <p>
-  👋 Faaaala dev, João Santos Aqui!<br><br>
-  ## 🚀 Sobre Mim<br>
-  Estou em transição de carreira para o desenvolvimento Backend, focado em Java, Spring Boot, MySQL e Microservices. Meu objetivo é criar sistemas escaláveis e eficientes, aplicando boas práticas de desenvolvimento e buscando sempre aprender mais sobre novas tecnologias. A cada novo desafio, estou mais motivado para me aprofundar no desenvolvimento de soluções robustas, escaláveis e de alta performance.
+  👋 Faaaala, sou o João Santos!<br><br>
+  Estou em transição para a área de desenvolvimento Backend, focado em Java, Spring Boot, MySQL e Microservices. A cada dia, me sinto mais animado para criar sistemas eficientes e escaláveis, e estou sempre em busca de novas oportunidades para aprender e crescer. Atualmente, estou me aprofundando em boas práticas de desenvolvimento e em soluções de alta performance.
   <br><br>
-  - 🔭 Atualmente, estou aprimorando minhas habilidades para desenvolver soluções robustas e de alta performance, com ênfase na criação de APIs e sistemas distribuídos. Busco aplicar meus conhecimentos em Java, Spring Boot e bancos de dados para resolver problemas complexos.
+  - 🔭 Meu foco no momento é em Backend, buscando construir APIs e sistemas robustos com Java e Spring Boot. A jornada tem sido intensa, mas estou curtindo cada etapa do processo. Estou sempre buscando melhorar e aplicar o que aprendo em projetos reais.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   
-  - 💬 Minha trajetória está em evolução, agora focada no desenvolvimento Backend. Após iniciar na Ciência de Dados, decidi me aprofundar em tecnologias como Java, Spring Boot e MySQL para criar soluções mais robustas e escaláveis, com o intuito de construir sistemas de alto desempenho e atender às demandas do mercado.
-
-  - ⚡ Gosto de ler, assistir filmes e praticar esportes. Acredito que nossos hobbies nos ajudam a desenvolver habilidades importantes, como criatividade e resolução de problemas, que são essenciais tanto na vida pessoal quanto profissional. \o/
+  - 💬 Minha história começou na Ciência de Dados, mas agora estou voltado para o desenvolvimento Backend. Gosto de trabalhar com Java, Spring Boot e MySQL para criar soluções que façam a diferença. Estou muito empolgado com a transição de carreira e com as novas possibilidades que surgem a cada dia.
+  
+  - ⚡ Fora do código, sou fã de um bom livro, filmes e não passo um dia sem praticar esportes. Acredito que um bom equilíbrio entre trabalho e lazer é fundamental para manter a criatividade e a disposição sempre em alta.
 </details>
 
 <!-- Links -->
@@ -62,7 +61,7 @@
 
 <!-- Ferramentas & Frameworks -->
 <div style="flex-basis: 48%;">
-  <h3>Tools & Frameworks</h3>
+  <h3>Ferramentas & Frameworks</h3>
   <img align="center" alt="IntelliJ IDEA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
