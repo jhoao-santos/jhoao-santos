@@ -8,7 +8,7 @@
 <!-- Apresentação -->
 <p>
   👋 Faaaala, sou o João Santos!<br><br>
-  Estou em transição para a área de desenvolvimento Backend, focado em Java, Spring Boot, MySQL e Microservices. A cada dia, me sinto mais animado para criar sistemas eficientes e escaláveis, e estou sempre em busca de novas oportunidades para aprender e crescer. Atualmente, estou me aprofundando em boas práticas de desenvolvimento e em soluções de alta performance.
+  Estou em transição para a área de desenvolvimento Backend, focado em Java, Spring Boot, PostgreSQL e Microservices. A cada dia, me sinto mais animado para criar sistemas eficientes e escaláveis, e estou sempre em busca de novas oportunidades para aprender e crescer. Atualmente, estou me aprofundando em boas práticas de desenvolvimento e em soluções de alta performance.
   <br><br>
   - 🔭 Meu foco no momento é em Backend, buscando construir APIs e sistemas robustos com Java e Spring Boot. A jornada tem sido intensa, mas estou curtindo cada etapa do processo. Estou sempre buscando melhorar e aplicar o que aprendo em projetos reais.
 </p>
@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   
-  - 💬 Minha história começou na Ciência de Dados, mas agora estou voltado para o desenvolvimento Backend. Gosto de trabalhar com Java, Spring Boot e MySQL para criar soluções que façam a diferença. Estou muito empolgado com a transição de carreira e com as novas possibilidades que surgem a cada dia.
+  - 💬 Minha história começou na Ciência de Dados, mas agora estou voltado para o desenvolvimento Backend. Gosto de trabalhar com Java, Spring Boot e PostgreSQL para criar soluções que façam a diferença. Estou muito empolgado com a transição de carreira e com as novas possibilidades que surgem a cada dia.
   
   - ⚡ Fora do código, sou fã de um bom livro, filmes e não passo um dia sem praticar esportes. Acredito que um bom equilíbrio entre trabalho e lazer é fundamental para manter a criatividade e a disposição sempre em alta.
 </details>
