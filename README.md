@@ -8,9 +8,20 @@
 <!-- Apresentação -->
 <p>
   👋 Faaaala, sou o João Santos!<br><br>
-  Estou em transição para a área de desenvolvimento Backend, focado em **Python, Django, FastAPI e PostgreSQL**. A cada dia, me sinto mais animado para criar sistemas eficientes e escaláveis, e estou sempre em busca de novas oportunidades para aprender e crescer. Atualmente, estou me aprofundando em boas práticas de desenvolvimento e em soluções de alta performance.
+ 🚀 Aspirante a Analista de Dados | Excel | SQL | Power BI | Python | Estatística
+
+Formado em Ciência de Dados e em curso na Hashtag Treinamento (Excel e SQL). Experiência prática em análise de dados na Atento, otimizando processos e apoiando decisões com base em dados.
+
+💡 Habilidades: Excel, SQL, Power BI, Python, Estatística, Análise de Dados.
+
+Aberto a oportunidades como Analista de Dados Júnior.
   <br><br>
-  - 🔭 Meu foco no momento é em Backend, buscando construir APIs e sistemas robustos com Python e frameworks modernos. A jornada tem sido intensa, mas estou curtindo cada etapa do processo.
+  - 🔭 🚀 Aspirante a Analista de Dados | Excel | SQL | Power BI | Python | Estatística
+
+ Experiência prática em análise de dados na Atento, otimizando processos e apoiando decisões com base em dados.
+
+💡 Habilidades: Excel, SQL, Power BI, Python, Estatística, Análise de Dados.
+
 </p>
 
 <!-- Dropdown -->
