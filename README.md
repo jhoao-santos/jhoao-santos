@@ -7,20 +7,13 @@
 
 <!-- Apresentação -->
 <p>
-  👋 Faaaala, sou o João Santos!<br><br>
- Sou profissional em transição para BackEnd em Python, com foco em APIs REST, FastAPI/Django, SQL e microsserviços. Tenho formação em Ciência de Dados e experiência prévia em análise de dados, o que me dá base sólida para estruturar sistemas eficientes. Busco minha primeira oportunidade como Desenvolvedor BackEnd Júnior para aplicar meus conhecimentos e evoluir na área.
-  <br><br>
-  - 🔭 🚀BackEnd em Python | FastAPI/Django | SQL | Microsserviços | Docker/AWS
+  Excel | Python | SQL | Power BI | Docker
 
- Experiência prática em análise de dados na Atento, otimizando processos e apoiando decisões com base em dados.
+Estou em transição de carreira para a área de Dados, após formação em Ciência de Dados e experiência anterior em análise de dados. Atualmente, aprofundo meus estudos em Estatística, área na qual iniciarei uma nova graduação. Também estou me especializando em Excel, Python, Power BI e SQL pela plataforma Hashtag Treinamentos, além de cursar Inglês pelo GoFluent, por entender que o idioma é essencial para minha evolução profissional.
 
-💡 Criação de APIs com FastAPI/Django
+Tenho alguns projetos disponíveis no GitHub: github.com/jhoao-santos
 
-Integração com bancos de dados SQL
-
-Estruturação de microsserviços e containers com Docker
-
-Automação de processos e lógica de programação em Python
+Sou movido por aprendizado contínuo e busco minha primeira oportunidade em Dados (Análise ou Engenharia), para aplicar meus conhecimentos em projetos reais e crescer junto com a equipe
 
 </p>
 
@@ -28,7 +21,7 @@ Automação de processos e lógica de programação em Python
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   
-  - 💬 Minha história começou na Ciência de Dados, mas agora estou voltado para o desenvolvimento Backend. Gosto de trabalhar com Python, Django, FastAPI e PostgreSQL para criar soluções que façam a diferença.
+  - 💬 Minha história começou na Ciência de Dados e sigo cada vez mais focado nessa área. Gosto de trabalhar com Python, SQL, Power BI, Excel e Docker para transformar dados em informações valiosas e apoiar a tomada de decisão.
   
   - ⚡ Fora do código, sou fã de um bom livro, filmes e não passo um dia sem praticar esportes. Acredito que um bom equilíbrio entre trabalho e lazer é fundamental para manter a criatividade e a disposição sempre em alta.
 </details>
