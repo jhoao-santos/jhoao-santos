@@ -7,13 +7,27 @@
 
 <!-- Apresentação -->
 <p>
-  Excel | Python | SQL | Power BI | Docker
-
-Estou em transição de carreira para a área de Dados, após formação em Ciência de Dados e experiência anterior em análise de dados. Atualmente, aprofundo meus estudos em Estatística, área na qual iniciarei uma nova graduação. Também estou me especializando em Excel, Python, Power BI e SQL pela plataforma Hashtag Treinamentos, além de cursar Inglês pelo GoFluent, por entender que o idioma é essencial para minha evolução profissional.
-
-Tenho alguns projetos disponíveis no GitHub: github.com/jhoao-santos
-
-Sou movido por aprendizado contínuo e busco minha primeira oportunidade em Dados (Análise ou Engenharia), para aplicar meus conhecimentos em projetos reais e crescer junto com a equipe
+  🔷 SOBRE (About)
+ 
+Sou profissional em transição para Cloud Computing, com foco em Microsoft Azure e Arquitetura Avançada de Nuvem.
+🔷 Profissional em transição para Cloud Computing, com foco em Microsoft Azure, infraestrutura e arquitetura de soluções em nuvem.
+Atualmente curso Pós-Graduação em Arquitetura Avançada de Cloud com Azure pela Anhanguera em parceria com a TFTEC, desenvolvendo conhecimentos em:
+☁️ Microsoft Azure
+🔐 Segurança e identidade
+🖥️ Infraestrutura e serviços gerenciados
+📦 Containers e virtualização
+📊 Monitoramento e alta disponibilidade
+🐍 Python e automação
+🗄️ SQL e dados
+Também possuo experiência com suporte técnico ao ecossistema Microsoft, atendimento corporativo e resolução de incidentes, atuando com foco em qualidade, troubleshooting e experiência do usuário.
+📚 Em constante evolução técnica, estudando Cloud, Azure, Python, Linux e inglês técnico.
+🚀 Buscando oportunidade como:
+• Cloud Support
+• Azure Administrator Jr
+• Cloud Engineer Jr
+• Infraestrutura Cloud
+• DevOps Jr
+🔗 GitHub:
 
 </p>
 
@@ -21,9 +35,21 @@ Sou movido por aprendizado contínuo e busco minha primeira oportunidade em Dado
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   
-  - 💬 Minha história começou na Ciência de Dados e sigo cada vez mais focado nessa área. Gosto de trabalhar com Python, SQL, Power BI, Excel e Docker para transformar dados em informações valiosas e apoiar a tomada de decisão.
-  
-  - ⚡ Fora do código, sou fã de um bom livro, filmes e não passo um dia sem praticar esportes. Acredito que um bom equilíbrio entre trabalho e lazer é fundamental para manter a criatividade e a disposição sempre em alta.
+  - 💬 Minha trajetória na tecnologia começou na Ciência de Dados e evoluiu para Cloud Computing, com foco em Microsoft Azure, infraestrutura e arquitetura de soluções em nuvem.
+
+Atualmente curso Pós-Graduação em Arquitetura Avançada de Cloud com Azure pela Anhanguera em parceria com a TFTEC, desenvolvendo conhecimentos em Azure, automação, infraestrutura, segurança e monitoramento.
+
+Tenho interesse em tecnologias como Python, SQL, utilizando dados e automação para apoiar tomadas de decisão e criar soluções mais eficientes.
+
+📚 Em constante evolução técnica, estudando Cloud, Azure, Python, Linux e inglês técnico.
+
+⚡ Fora da tecnologia, gosto de leitura, filmes e esportes, mantendo equilíbrio entre aprendizado e qualidade de vida.
+
+🚀 Buscando oportunidade como:
+• Cloud Support
+• Azure Administrator Jr
+• Cloud Engineer Jr
+• DevOps Jr.
 </details>
 
 <!-- Links -->
