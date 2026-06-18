@@ -35,26 +35,19 @@ Experiência prática no ecossistema Microsoft, atuando com:
     </td>
   </tr>
 </table>
-
 <!-- Tecnologias -->
+<h3 align="center">Tecnologias</h3>
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://seeklogo.com/images/M/microsoft-dynamics-365-logo-7F3C7C6C2D-seeklogo.com.png" alt="Dynamics 365" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://learn.microsoft.com/en-us/power-platform/media/power-platform-logo.svg" alt="Power Platform" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft 365" width="50" height="50" style="margin: 10px;"/>
 </p>
 
 <!-- Ferramentas & Frameworks -->
-<div align="center">
-  <h3>Ferramentas & Frameworks</h3>
-  <img alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
-</div>
+<h3 align="center">Ferramentas e Frameworks</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="45" style="margin: 10px;"/>
+</p>
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/jhoao-santos/jhoao-santos/blob/output/github-contribution-grid-snake.svg)
