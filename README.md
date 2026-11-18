@@ -25,19 +25,19 @@ Aqui eu documento, em laboratórios práticos, tudo o que aprendo no caminho.
 
 ### 🧰 Tecnologias
 
-**Business Applications:** Dynamics 365 CE (CRM) · Power Platform · Microsoft 365
-**Cloud:** Azure (Resource Manager, VMs, RBAC, redes)
-**Sistemas:** Linux (Ubuntu Server) · Windows · VirtualBox
-**Automação:** Bash · PowerShell · Git
-**Programação e dados:** Python · SQL · Java
-**Estudando:** Docker · Terraform · CI/CD
+- **Business Applications:** Dynamics 365 CE (CRM) · Power Platform · Microsoft 365
+- **Cloud:** Azure (Resource Manager, VMs, RBAC, redes)
+- **Sistemas:** Linux (Ubuntu Server) · Windows · VirtualBox
+- **Automação:** Bash · PowerShell · Git
+- **Programação e dados:** Python · SQL · Java
+- **Estudando:** Docker · Terraform · CI/CD
 
 ---
 
 ### 🏆 Certificações
 
-**Em andamento:** AZ-900 · PL-900 · MB-910
-**Próximas:** AZ-104 (Azure Administrator) · AZ-305 (Azure Solutions Architect)
+- **Em andamento:** AZ-900 · PL-900 · MB-910
+- **Próximas:** AZ-104 (Azure Administrator) · AZ-305 (Azure Solutions Architect)
 
 ---
 
