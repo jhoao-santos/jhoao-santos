@@ -44,8 +44,8 @@ Aqui eu documento, em laboratórios práticos, tudo o que aprendo no caminho.
 ### 📊 Estatísticas
 
 <p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhoao-santos&show_icons=true&theme=highcontrast&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoao-santos&layout=compact&theme=highcontrast"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhoao-santos&show_icons=true&theme=highcontrast&count_private=true&locale=pt-br&hide_rank=true&hide=prs,issues,contribs&custom_title=Estat%C3%ADsticas%20do%20Jo%C3%A3o"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoao-santos&layout=compact&theme=highcontrast&locale=pt-br&hide=mako,dockerfile"/>
 </p>
 
 ---
