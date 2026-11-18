@@ -36,8 +36,8 @@ Aqui eu documento, em laboratórios práticos, tudo o que aprendo no caminho.
 
 ### 🏆 Certificações
 
-- **Em andamento:** AZ-900 · PL-900 · MB-910
-- **Próximas:** AZ-104 (Azure Administrator) · AZ-305 (Azure Solutions Architect)
+- **Em preparação:** AZ-900 (Azure Fundamentals), minha primeira certificação
+- **Próximas:** AZ-104 (Azure Administrator) · AZ-305 (Azure Solutions Architect) · PL-900 · MB-910
 
 ---
 
