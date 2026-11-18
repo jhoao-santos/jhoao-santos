@@ -1,118 +1,57 @@
-<h1 align="center">👨‍💻 João Santos</h1>
+# 👨‍💻 João Santos
 
-<h3 align="center">
-Dynamics 365 CE Developer | Azure Cloud | Power Platform | Software Architecture
-</h3>
+**Azure Cloud | Linux | DevOps em formação**
 
-<p align="center">
-🚀 Microsoft Business Applications | ☁️ Cloud Computing | Dynamics 365 CE
-</p>
+Sou formado em Ciência de Dados e hoje atuo **por uma consultoria, prestando serviço para uma big tech global de tecnologia**, no ecossistema de Business Applications. Agora estou expandindo para **infraestrutura em nuvem e DevOps**, com foco em **Microsoft Azure**.
 
----
+📚 **Estudando agora:**
+- Pós-graduação em **Arquitetura Cloud Avançada no Azure** (Anhanguera + TFTEC)
+- Formação **DevOps na Alura**: Linux CLI, scripts e automação
 
-## 👋 Sobre Mim
+Aqui eu documento, em laboratórios práticos, tudo o que aprendo no caminho.
 
-Sou um profissional em transição para a área de tecnologia, especializado no ecossistema Microsoft.
-
-Atualmente atuo e estudo soluções voltadas para:
-
-🔹 Dynamics 365 CE (CRM)
-
-🔹 Power Platform
-
-🔹 Azure Cloud
-
-🔹 Microsoft 365
-
-🔹 Arquitetura de Software
-
-🔹 Inteligência Artificial aplicada a negócios
-
-Atualmente curso uma Pós-Graduação em Arquitetura Avançada de Cloud com Azure, desenvolvendo conhecimentos em infraestrutura, segurança, automação, integração e governança de ambientes corporativos.
+📍 São Paulo, Brasil · 🎯 Buscando: **Cloud Support / Cloud Engineer Jr.**
 
 ---
 
-## 🎯 Objetivos
+### 🚀 Laboratórios em destaque
 
-✔ Evoluir como especialista Microsoft
-
-✔ Atuar em projetos Dynamics 365 CE
-
-✔ Desenvolver soluções em Azure
-
-✔ Aprimorar conhecimentos em Arquitetura de Software
-
-✔ Contribuir para projetos Open Source
+| Projeto | O que mostra |
+|---|---|
+| [🐧 lab-linux-virtualbox](https://github.com/jhoao-santos/lab-linux-virtualbox) | Ubuntu Server no VirtualBox, rede em Bridge, acesso por SSH e troubleshooting de Hyper-V e driver de vídeo |
+| ☁️ *Em breve:* VM Linux no Azure | O mesmo laboratório em nuvem: VNet, NSG, IP público e SSH com chave |
 
 ---
 
-## 🛠️ Tecnologias
+### 🧰 Tecnologias
 
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
-
-<img src="https://learn.microsoft.com/en-us/power-platform/media/power-platform-logo.svg" width="50"/>
-
-<img src="https://seeklogo.com/images/M/microsoft-dynamics-365-logo-7F3C7C6C2D-seeklogo.com.png" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-
-</p>
+**Business Applications:** Dynamics 365 CE (CRM) · Power Platform · Microsoft 365
+**Cloud:** Azure (Resource Manager, VMs, RBAC, redes)
+**Sistemas:** Linux (Ubuntu Server) · Windows · VirtualBox
+**Automação:** Bash · PowerShell · Git
+**Programação e dados:** Python · SQL · Java
+**Estudando:** Docker · Terraform · CI/CD
 
 ---
 
-## 📚 Atualmente Estudando
+### 🏆 Certificações
 
-- Azure Architecture
-- Cloud Security
-- Power Platform
-- Dynamics 365 CE
-- Inteligência Artificial
-- DevOps Fundamentals
+**Em andamento:** AZ-900 · PL-900 · MB-910
+**Próximas:** AZ-104 (Azure Administrator) · AZ-305 (Azure Solutions Architect)
 
 ---
 
-## 📊 Estatísticas GitHub
+### 📊 Estatísticas
 
-<p align="center">
-
+<p align="left">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhoao-santos&show_icons=true&theme=highcontrast&count_private=true"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoao-santos&layout=compact&theme=highcontrast"/>
-
 </p>
 
 ---
 
-## 🏆 Certificações
+### 📫 Contato
 
-📖 Em andamento:
-
-- AZ-900
-- PL-900
-- MB-910
-
----
-
-## 📫 Contato
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/joãoferreira10/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:fjoao1020@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-⭐ Sempre aberto para aprender, colaborar e construir soluções inovadoras utilizando o ecossistema Microsoft.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Santos-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3oferreira10)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fjoao1020@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jhoao--santos-181717?logo=github&logoColor=white)](https://github.com/jhoao-santos)
